@@ -1,5 +1,11 @@
 # gta6-clipper-01 starter
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Mastomy2/gta6-clipper-01-entry/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Mastomy2/gta6-clipper-01-entry/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
+Entry for the [gta6-clipper-01 bounty on make.fun](https://make.fun/bounty/gta6-clipper-01).
+
 ## This entry: Kai Cenat hits 6 stars at a gas station
 
 - **Moment (one, not a montage):** Kai Cenat's first GTA 6 stream (Twitch VOD 2932305259,
